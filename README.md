@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dawid Śmiech, Young Developer from Poland
+- 👀 I’m interested in Back-End
+- 🌱 I’m currently learning TensorFlow in Python
+- 💞️ I’m looking to collaborate on open-source project which will change world...
+- 📫 dawid.smiech@protonmail.com
